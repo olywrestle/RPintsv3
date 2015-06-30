@@ -22,11 +22,14 @@ __Licensing:__
 Full license text available in 'LICENSE.md'.
 
 
-Questions? Comments? Want to Contribute?
+Questions? Comments? Want to Contribute to the original RaspberryPints?
 http://www.homebrewtalk.com/f51/initial-release-raspberrypints-digital-taplist-solution-456809/
 
 Inspired by Kegerface:
 http://github.com/kegerface/kegerface
+
+Variation of original RaspberryPints project.
+https://github.com/RaspberryPints/RaspberryPints.git
 
 
 __Known Bugs:__
@@ -38,6 +41,9 @@ __Known Bugs:__
 
 
 __Version History:__
+        v2.0.2.beta1:
+        	-Adding recipe addition and view.
+        	-Added new 2015 BJCP styles
 
 	v1.0.3 (hotfix):
 		- Fixed broken links to (external) official website.
